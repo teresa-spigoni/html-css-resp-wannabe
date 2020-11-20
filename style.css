@@ -130,7 +130,10 @@ img {
   }
 
   #lezioni .row>.left,
-  #lezioni .row>.right {
+  #lezioni .row>.right,
+  #why .row>.first,
+  #why .row>.second,
+  #why .row>.third {
     padding: 40px 0;
   }
 
@@ -143,12 +146,6 @@ img {
 
   #steps .row>.right {
     float: initial;
-  }
-
-  #why .row>.first,
-  #why .row>.second,
-  #why .row>.third {
-    padding: 40px 0;
   }
 
   hr{
